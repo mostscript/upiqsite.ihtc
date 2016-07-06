@@ -1,9 +1,9 @@
-upiqsite.base  : site policy product for TEAMSPACE SITE
+upiqsite.ihtc : site policy product for IHTC TeamSpace
 
 ----
 
 
-Updated: 2015-08-28
+Updated: 2016-07-06
 
 Author: Sean Upton <sean.upton@hsc.utah.edu>
 

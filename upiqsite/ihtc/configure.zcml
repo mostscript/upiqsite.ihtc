@@ -15,9 +15,9 @@
 
   <!-- site style sheet -->
   <browser:resource
-    name="base_site.css"
-    file="base_site.css"
-    layer="upiqsite.base.interfaces.IBaseSiteProductLayer"
+    name="ihtc_site.css"
+    file="ihtc_site.css"
+    layer="upiqsite.ihtc.interfaces.IIHTCSiteProductLayer"
     />
 
 </configure>

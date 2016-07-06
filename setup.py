@@ -3,9 +3,9 @@ from setuptools import setup, find_packages
 version = '0.1'
 
 setup(
-    name='upiqsite.base',
+    name='upiqsite.ihtc',
     version=version,
-    description='Policy product for TeamSpace',
+    description='Policy product for TeamSpace for IHTC',
     long_description=(
         open("README.rst").read(),
         ),

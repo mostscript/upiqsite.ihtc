@@ -1,6 +1,6 @@
 id: front-page
-title: BASE TeamSpace Collaboration Site
-description: Welcome to the TeamSpace collaboration site
+title: IHTC TeamSpace Collaboration Site
+description: Welcome to the TeamSpace collaboration site for the Intermountain Hemophilia and Thrombosis Center
 Content-Type: text/html
 
 <h3><br /></h3>
@@ -16,7 +16,7 @@ Content-Type: text/html
 
 <h3><em>QI TeamSpace:</em></h3>
 <p class="callout">
-        This organization
+        The Intermountain Hemophilia and Thrombosis Center
         and its stakeholders use this site to facilitate online
         collaboration, resource sharing, and data collection related
         to the various quality improvement projects. 
@@ -29,10 +29,7 @@ Content-Type: text/html
 <p class="callout">
     <b>
         If you have questions about QI Teamspace, please contact project staff 
-        by e-mail at <a href="mailto:info@example.org">info@example.org</a>.
-        <br /><br />
-        For more information, please visit 
-        <a href="http://www.example.org" target="_blank">our main site</a>.
+        by e-mail at <a href="mailto:ihtc@partners.upiq.org">ihtc@partners.upiq.org</a>.
     </b>
 </p>
 

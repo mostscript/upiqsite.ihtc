@@ -1,0 +1,6 @@
+<?xml version="1.0"?>    
+<layers> 
+  <layer name="upiqsite.ihtc" 
+         interface="upiqsite.ihtc.interfaces.IIHTCSiteProductLayer" /> 
+</layers>
+
